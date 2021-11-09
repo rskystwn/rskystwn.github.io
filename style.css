@@ -1,0 +1,27 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(https://images.unsplash.com/photo-1626958390943-a70309376444?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  background-size: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Galery {
+  background-image: url(https://images.unsplash.com/photo-1626958390898-162d3577f293?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  background-size: 110%;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#Contact {
+  background-color: #dc3545;
+  color: black;
+  text-align: center;
+}
+
+#About {
+  color: black;
+  background-color: #dc3545;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
